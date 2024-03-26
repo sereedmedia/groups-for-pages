@@ -1,10 +1,9 @@
-
 <?php
 /**
  * Plugin Name: Groups for Pages
- * Description: A plugin to display WordPress pages grouped by a custom taxonomy in the admin.
+ * Description: A plugin to display WordPress pages in the admin grouped by a custom taxonomy.
  * Version: 1.0
- * Author: Your Name
+ * Author: DevBranch Crew & ChattyG
  */
 
 // Register the custom taxonomy.
