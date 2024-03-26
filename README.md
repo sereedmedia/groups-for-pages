@@ -1,2 +1,2 @@
 # groups-for-pages
-Some files to from the watercooler slack.
+Some files to make an idea from the watercooler slack.
